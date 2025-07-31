@@ -1,12 +1,100 @@
 {
   "questions": [
     {
-      "question": "hey",
-      "answer": "wassup!"
+      "question": "hello",
+      "answer": ["hi there!", "hello!", "hey!", "greetings!"]
     },
     {
-      "question": "how are yoU?",
-      "answer": "i'm good, how about you?"
+      "question": "how are you?",
+      "answer": ["I'm good, how about you?", "Doing well, thanks!", "I'm great!"]
+    },
+    {
+      "question": "bye",
+      "answer": ["Goodbye! Talk to you later.", "See you!", "Bye!"]
+    },
+    {
+      "question": "what's your name?",
+      "answer": ["I'm your friendly chatbot.", "I don't have a name, but you can call me Chatbot!"]
+    },
+    {
+      "question": "what can you do?",
+      "answer": ["I can chat with you and answer your questions.", "I can help you find information."]
+    },
+    {
+      "question": "tell me a joke",
+      "answer": ["Why did the computer go to the doctor? Because it had a virus!", "Why was the computer cold? It left its Windows open!"]
+    },
+    {
+      "question": "what is your name?",
+      "answer": "I'm your friendly chatbot."
+    },
+    {
+      "question": "what do you do?",
+      "answer": "I chat and answer your questions."
+    },
+    {
+      "question": "how old are you?",
+      "answer": "I'm as old as my code!"
+    },
+    {
+      "question": "where are you from?",
+      "answer": "I live in your computer."
+    },
+    {
+      "question": "what's up?",
+      "answer": "Not much, just chatting with you."
+    },
+    {
+      "question": "good morning",
+      "answer": "Good morning! Hope you have a great day."
+    },
+    {
+      "question": "good night",
+      "answer": "Good night! Sleep well."
+    },
+    {
+      "question": "thank you",
+      "answer": "You're welcome!"
+    },
+    {
+      "question": "thanks",
+      "answer": "No problem!"
+    },
+    {
+      "question": "bye",
+      "answer": "Goodbye! Talk to you later."
+    },
+    {
+      "question": "see you",
+      "answer": "See you soon!"
+    },
+    {
+      "question": "can you help me?",
+      "answer": "Of course! What do you need help with?"
+    },
+    {
+      "question": "what is your favorite color?",
+      "answer": "I like all colors equally."
+    },
+    {
+      "question": "do you like music?",
+      "answer": "I love music, even though I can't listen to it."
+    },
+    {
+      "question": "tell me a joke",
+      "answer": "Why did the computer go to the doctor? Because it had a virus!"
+    },
+    {
+      "question": "what is ai?",
+      "answer": "AI stands for Artificial Intelligence."
+    },
+    {
+      "question": "who created you?",
+      "answer": "I was created by a programmer."
+    },
+    {
+      "question": "how's the weather?",
+      "answer": "I can't check the weather, but I hope it's nice!"
     }
   ]
 }
